@@ -4,7 +4,9 @@
 
   Outside of the professional world, I enjoy playing board & card games, camera/drone videography, and am a PC enthusiast.
 
-- Currently, I'm working on learning all the elements that go into data analytics, including (but not limited to) SQL, Tableau/Power BI, and Python.  I'm working on a few SQL functions in an application I use in my current job.  If you want, you can check them out [here!](https://github.com/odubuk/Sundance-MediaPrep-SQL-Filters).
+- Currently, I'm working on learning all the elements that go into data analytics, including (but not limited to) SQL, Tableau/Power BI, and Python.
+
+  'm working on a few SQL functions in an application I use in my current job.  I've created a repository here on GitHub detailing some of these functions I've developed.  If you want, you can check them out [here!](https://github.com/odubuk/Sundance-MediaPrep-SQL-Filters).  I'll be updating the repository with more examples in the future!
 
 - I'm looking to collaborate on anything at the moment!
 
