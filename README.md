@@ -1,6 +1,6 @@
 - Hi!  I'm Owen!  Thanks for checking out my GitHub page!  I am an aspiring Data Analyst currently working towards acquiring my first job in the IT world.
 
-- My interests include: working with data (obviously!), collaborting/sharing/brainstorming with others, and teaching.
+- My interests include: working with data (obviously!), collaborating/sharing/brainstorming with others, and teaching.
 
   Outside of the professional world, I enjoy playing board & card games, camera/drone videography, and am a PC enthusiast.
 
