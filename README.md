@@ -4,7 +4,7 @@
 
 - I enjoy collaborating with peers and clients alike, and strive to do so in a manner that attains mutual goals and fosters a healthy business relationship.
 
-  Outside of the professional world, I enjoy playing board & card games, camera/drone videography, and am a PC enthusiast.
+- Outside of work, I enjoy spending time with my wife and our dogs and cats, nature walks, travelling, and am an enthusiast of board games, card games, and PC gaming.
 
   I'm working on a few SQL functions in an application I use in my current job.  I've created a repository here on GitHub detailing some of these functions I've developed.  If you want, you can check them out [here](https://github.com/odubuk/Sundance-MediaPrep-SQL-Filters)!.  I'll be updating the repository with more examples in the future!
 
