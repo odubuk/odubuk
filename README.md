@@ -1,6 +1,6 @@
 - Hi!  I'm Owen!  Thanks for checking out my GitHub page!  I am an aspiring IT Associate currently working towards acquiring my first job in the IT world.
 
-- Currently, I'm working towards an Entry Level IT Associate position with future goals of transitioning into Systems Administration, as well as dabbling in aspects of data analytics, including (but not limited to) SQL, Tableau/Power BI, and Python.
+- Currently, I'm working towards an Entry Level IT Associate position with future goals of transitioning into Systems Administration.  Additionally, I am dabbling in aspects of data analytics, including (but not limited to) SQL, Tableau/Power BI, and Python.
 
 - I enjoy collaborating with peers and clients alike, and strive to do so in a manner that attains mutual goals and fosters a healthy business relationship.
 
